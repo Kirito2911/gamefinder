@@ -1,7 +1,7 @@
 # Gamefinder
-A simple code in pyhton for test the IGDB API.
+A simple code in python for test the IGDB API.
 
-For use this code you have to install 3 libs for python:
+For use this code you have to install 3 libs :
 ```py
 pip install requets
 pip install igdb-api-v4
